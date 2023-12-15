@@ -1,3 +1,12 @@
+
+![Adsız](https://github.com/Karaytumut20/redux-sayi-arttirip-azaltmak/assets/128383118/c0b18271-3069-4a80-8fb4-5cc815dd76d4)
+
+Bu proje, React ve Redux kullanılarak geliştirilmiş basit bir sayaç uygulamasını içermektedir.
+
+Redux kullanarak oluşturduğum sayaç bileşenini ekledim. Sayaç artırma, azaltma ve belirli bir miktarda artırma işlevleri çalışıyor. Bununla ilgili testler yapıldı ve düzenlendi
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
